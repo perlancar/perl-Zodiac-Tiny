@@ -57,6 +57,9 @@ sub zodiac_of {
     }
 }
 
+1;
+# ABSTRACT: Look up zodiac sign for a given date
+
 =head1 DESCRIPTION
 
 This module is a lightweight alternative to L<DateTime::Event::Zodiac>.
